@@ -1,0 +1,4 @@
+127.0.0.1 - - [28/Sep/2017:10:20:45 +0300] "GET / HTTP/1.1" 403 500 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0"
+127.0.0.1 - - [28/Sep/2017:10:20:45 +0300] "GET /favicon.ico HTTP/1.1" 403 510 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0"
+127.0.0.1 - - [28/Sep/2017:10:20:45 +0300] "GET /favicon.ico HTTP/1.1" 403 510 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0"
+127.0.0.1 - - [28/Sep/2017:10:22:02 +0300] "GET / HTTP/1.1" 403 500 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0"
